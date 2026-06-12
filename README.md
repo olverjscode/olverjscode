@@ -26,21 +26,7 @@ Hoje, divido meu tempo entre o desenvolvimento de baixo nível (C++ e Pawn) e o 
 
 No momento, estou aprofundando meus conhecimentos em **Java e Spring Boot** para o desenvolvimento de sistemas back-end mais estruturados.
 
-* ☁️ **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)** — Desenvolvimento de scripts e soluções para comunidades de jogos.
-* ☕ **[Savecoffee](https://savecoffee.online)** — Seu segundo cérebro, feito para devs..
-
-### 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olveirajs&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olveirajs&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olveirajs&theme=github_dark" />
-</p>
-
-<br/>
+* ☁️ **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)**
 
 <div align="center">
   <h3><i>"Falar é fácil. Mostre-me o código."</i></h3>
